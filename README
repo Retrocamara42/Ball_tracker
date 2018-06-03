@@ -1,3 +1,4 @@
 Ball_tracker
 
-Implementation of an algorithm to track a red ball
+Implementation in ROS of an algorithm to track a red ball
+

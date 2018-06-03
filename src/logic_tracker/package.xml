@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package>
+  <name>logic_tracker</name>
+  <version>0.0.0</version>
+  <description>
+      The logic_tracker package: Control system that is in charge of
+      giving the right angle so the tracked ball is in the middle.
+
+  </description>
+
+  <maintainer email="juanmanuel@todo.todo">juanmanuel</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <run_depend>roscpp</run_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <build_depend>std_msgs</build_depend>
+  <run_depend>std_msgs</run_depend>
+
+</package>
